@@ -1,0 +1,56 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.mdiv{
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	margin-top: -50px;
+	top: 0px;
+	left: 0px;
+	display: flex;
+	background-image: url(https://wallpapercave.com/wp/wp6303627.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.container{
+	height:300px;
+	width:700px;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: 33%;
+	background: transperent;
+/*	backdrop-filter: blur(20px);*/
+	color: white;
+	font-family: Arial black;
+	-webkit-text-stroke:2px black;
+}
+h1{
+	font-size: 150px;
+}
+.unit{
+	color: rebeccapurple;
+	font-size: 33px;
+	font-family: arial black;
+	position: absolute;
+	top: 230px;
+	left: 35%;
+	-webkit-text-stroke:0.5px white;
+	}
+
+	.tracking-in-contract-bck-bottom{
+	align-items:left;
+	margin-top:350px;
+	color:white;
+   -webkit-text-stroke:0.3px red;
+	font-size:35px;
+	position: absolute;
+	font-family: Protest Riot;
+    
+
+
+}
